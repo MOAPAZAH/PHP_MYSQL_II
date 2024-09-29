@@ -1,4 +1,4 @@
-**Proyecto CRUD de Materias en la BBDD**
+**Proyecto CRUD de Materias en la BD UNIVERSIDAD**
 
 Este proyecto consiste en la implementación de un CRUD (Crear, Leer, Actualizar y Eliminar) para la tabla "Materia" en la base de datos "universidad", utilizando PHP y la librería FPDF para generar reportes en PDF.
 
